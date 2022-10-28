@@ -4,4 +4,4 @@ import "./index.css";
 import ShoppingList from "./ShoppingList";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<ShoppingList name= "Melvin" item="the next MXTX book"/>);
+root.render(<ShoppingList name= "Melvin" item="nutella food service container"/>);
