@@ -12,6 +12,7 @@ class ShoppingList extends React.Component {
           <li>preboiled eggs</li>
           <li>peaches</li>
           <li>diet coke</li>
+          <li>{this.props.item}</li>
         </ul>
       </div>
     );
